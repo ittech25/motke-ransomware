@@ -24,7 +24,7 @@ As a POC, it will not scan the entire drives of the machine and encrypt all non-
 
 supported file extenstions are:
 
-docx, exe, txt, png, jpg, avi, bmp, mp4, mp3, mkv
+> docx, exe, txt, png, jpg, avi, bmp, mp4, mp3, mkv
 
   ### Encryption:
    The malware is encrypting the files using AES-256.
@@ -56,7 +56,7 @@ Please, DO NOT use this script on important files, or play with encrypted data y
 
 
 
-# summary
+# Summary
 I went into this POC with thoughts about how hard it may be to build such a malware.
 
 While not being as big as a real ransomware might be, the important part is being made like a POC should be, and it really shows the threats of how anyone can build such things.
