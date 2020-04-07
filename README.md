@@ -40,7 +40,11 @@ docx, exe, txt, png, jpg, avi, bmp, mp4, mp3, mkv
    Using this work scheme, the same server private key can be used to decrypt all the data for every person affected by this malware.
    
    This could be prevented by opening a socket over TOR network in order to send a hash used to encrypt the client private key, but it wasnt the purpose of this POC.
-   
+
+
+Please, DO NOT use this script on important files, or play with encrypted data you wish to restore, as i take no responsibility over loss of data.
+
+
 ## Features:
 * Includes a Decrypter.
 
@@ -51,8 +55,6 @@ docx, exe, txt, png, jpg, avi, bmp, mp4, mp3, mkv
 * Changes Desktop background and creates a text file for instructions.
 
 
-
-Please, DO NOT use this script on important files, or play with encrypted data you wish to restore, as i take no responsibility over loss of data.
 
 # summary
 I went into this POC with thoughts about how hard it may be to build such a malware.
