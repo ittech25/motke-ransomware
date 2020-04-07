@@ -23,7 +23,7 @@ supported file extenstions are:
 
 docx, exe, txt, png, jpg, avi, bmp, mp4, mp3, mkv
 
-  #### Encryption:
+  ### Encryption:
    The malware is encrypting the files using AES-256.
     
    Each key is being encrypted by a client generated RSA public key, while the RSA private key is being encrypted by a pre made RSA public key encoded in the malware.
