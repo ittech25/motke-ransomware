@@ -14,6 +14,9 @@
 
 > This is a POC for encryption only, the script is not cleaning up traces left in memory nor communicating over TOR to ensure anonymity of the attacker.
 
+> As a POC, file is required to be manually ran, as a part of a real situation it could be compiled into an executable / vba script downloading it from an external server.
+
+
 ### Project summery:
 This POC was developed from pure curiosity about how ransomware works.
 
@@ -47,3 +50,11 @@ docx, exe, txt, png, jpg, avi, bmp, mp4, mp3, mkv
 
 * Changes Desktop background and creates a text file for instructions.
 
+
+
+Please, DO NOT use this script on important files, or play with encrypted data you wish to restore, as i take no responsibility over loss of data.
+
+# summary
+I went into this POC with thoughts about how hard it may be to build such a malware.
+
+While not being as big as a real ransomware might be, the important part is being made like a POC should be, and it really shows the threats of how anyone can build such things.
